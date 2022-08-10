@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredientes": [
+    {
+      "tag": "magicnature:weeping_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "magicnature:weeping_planks"
+  }
+}
