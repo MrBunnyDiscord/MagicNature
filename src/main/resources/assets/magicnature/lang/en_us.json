@@ -1,14 +1,6 @@
 {
-  "block.magicnature.ancient_rune_slicer": "Ancient rune slicer",
-  "block.magicnature.rune_cleaner": "Rune cleaner",
-  "block.magicnature.rune_sonte": "Rune stone",
-  "block.magicnature.rune_enchanter": "Rune enchanter",
-
-  "itemGroup.mn_nature": "MagicNature: nature",
-  "itemGroup.mn_magic": "MagicNature: magic",
-  
-  "item.magicnature.fire_rune": "Fire Rune",
-  "item.magicnature.fragmented_rune_sharp": "Fragmented rune sharp",
-  "item.magicnature.rune_sharp": "Rune sharp",
-  "item.magicnature.rune_slicer": "Rune slicer"
+  "block.magicnature.dead_dirt": "Dead dirt",
+  "block.magicnature.dead_leaves": "Dead Leaves",
+  "block.magicnature.dry_log": "Dry log",
+  "container.altar": ""
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "magicnature:item/charged_attuned_stone"
+  }
+}

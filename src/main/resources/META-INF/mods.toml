@@ -3,15 +3,21 @@ loaderVersion="[40,)"
 license="All rights reserved"
 
 [[mods]]
+
 modId="magicnature"
-version="0.0.1-beta"
+version="${file.jarVersion}"
 displayName="Magic Nature"
-logoFile=""
-credits="Thanks for this example mod goes to Java"
-authors="Venarge0411"
-description=''''''
+logoFile="logo.png"
+credits="MrBunny create this mod ^^"
+authors="MrBunny/Venarge0411"
+description='''
+
+
+
+'''
 
 [[dependencies.magicnature]]
+
 modId="forge"
 mandatory=true
 versionRange="[40,)"
@@ -19,6 +25,7 @@ ordering="NONE"
 side="BOTH"
 
 [[dependencies.magicnature]]
+
 modId="minecraft"
 mandatory=true
 versionRange="[1.18.2,1.19)"

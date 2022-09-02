@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "up": "magicnature:block/altar_up_joined",
+    "down": "magicnature:block/altar",
+    "west": "magicnature:block/altar_joined",
+    "east": "magicnature:block/altar_joined",
+    "north": "magicnature:block/altar_joined",
+    "south": "magicnature:block/altar_joined"
+  }
+}
